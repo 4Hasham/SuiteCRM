@@ -1,0 +1,772 @@
+
+2021-07-14 06:59:30...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 06:59:49...Begin System Check Process *************
+2021-07-14 06:59:49...XML Parsing Support Found
+2021-07-14 06:59:49...JSON Parsing Support Found
+2021-07-14 06:59:49...MBString Support Found
+2021-07-14 06:59:49...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 06:59:49.../custom directory and subdirectory check passed
+2021-07-14 06:59:49...cache directory and subdirectory check passed
+2021-07-14 06:59:49.../module  directory and subdirectory check passed
+2021-07-14 06:59:49.../upload directory check passed
+2021-07-14 06:59:49...ERROR: Zip support not found.
+2021-07-14 06:59:49...PCRE version check passed
+2021-07-14 06:59:49...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 06:59:49...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 06:59:49...Outputting HTML for System check
+2021-07-14 06:59:49...Errors were found *************
+2021-07-14 07:08:46...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:08:49...Begin System Check Process *************
+2021-07-14 07:08:49...XML Parsing Support Found
+2021-07-14 07:08:49...JSON Parsing Support Found
+2021-07-14 07:08:49...MBString Support Found
+2021-07-14 07:08:49...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:08:49.../custom directory and subdirectory check passed
+2021-07-14 07:08:49...cache directory and subdirectory check passed
+2021-07-14 07:08:49.../module  directory and subdirectory check passed
+2021-07-14 07:08:49.../upload directory check passed
+2021-07-14 07:08:49...ERROR: Zip support not found.
+2021-07-14 07:08:49...PCRE version check passed
+2021-07-14 07:08:49...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:08:49...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:08:49...Outputting HTML for System check
+2021-07-14 07:08:49...Errors were found *************
+2021-07-14 07:09:52...Begin System Check Process *************
+2021-07-14 07:09:52...XML Parsing Support Found
+2021-07-14 07:09:52...JSON Parsing Support Found
+2021-07-14 07:09:52...MBString Support Found
+2021-07-14 07:09:52...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:09:52.../custom directory and subdirectory check passed
+2021-07-14 07:09:52...cache directory and subdirectory check passed
+2021-07-14 07:09:52.../module  directory and subdirectory check passed
+2021-07-14 07:09:52.../upload directory check passed
+2021-07-14 07:09:52...ERROR: Zip support not found.
+2021-07-14 07:09:52...PCRE version check passed
+2021-07-14 07:09:52...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:09:52...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:09:52...Outputting HTML for System check
+2021-07-14 07:09:52...Errors were found *************
+2021-07-14 07:09:53...Begin System Check Process *************
+2021-07-14 07:09:53...XML Parsing Support Found
+2021-07-14 07:09:53...JSON Parsing Support Found
+2021-07-14 07:09:53...MBString Support Found
+2021-07-14 07:09:53...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:09:53.../custom directory and subdirectory check passed
+2021-07-14 07:09:53...cache directory and subdirectory check passed
+2021-07-14 07:09:53.../module  directory and subdirectory check passed
+2021-07-14 07:09:53.../upload directory check passed
+2021-07-14 07:09:53...ERROR: Zip support not found.
+2021-07-14 07:09:53...PCRE version check passed
+2021-07-14 07:09:53...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:09:53...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:09:53...Outputting HTML for System check
+2021-07-14 07:09:53...Errors were found *************
+2021-07-14 07:09:53...Begin System Check Process *************
+2021-07-14 07:09:53...XML Parsing Support Found
+2021-07-14 07:09:53...JSON Parsing Support Found
+2021-07-14 07:09:53...MBString Support Found
+2021-07-14 07:09:53...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:09:53.../custom directory and subdirectory check passed
+2021-07-14 07:09:53...cache directory and subdirectory check passed
+2021-07-14 07:09:53.../module  directory and subdirectory check passed
+2021-07-14 07:09:53.../upload directory check passed
+2021-07-14 07:09:53...ERROR: Zip support not found.
+2021-07-14 07:09:53...PCRE version check passed
+2021-07-14 07:09:53...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:09:53...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:09:53...Outputting HTML for System check
+2021-07-14 07:09:53...Errors were found *************
+2021-07-14 07:13:54...Begin System Check Process *************
+2021-07-14 07:13:54...XML Parsing Support Found
+2021-07-14 07:13:54...JSON Parsing Support Found
+2021-07-14 07:13:54...MBString Support Found
+2021-07-14 07:13:54...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:13:54.../custom directory and subdirectory check passed
+2021-07-14 07:13:54...cache directory and subdirectory check passed
+2021-07-14 07:13:54.../module  directory and subdirectory check passed
+2021-07-14 07:13:54.../upload directory check passed
+2021-07-14 07:13:54...ERROR: Zip support not found.
+2021-07-14 07:13:54...PCRE version check passed
+2021-07-14 07:13:54...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:13:54...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:13:54...Outputting HTML for System check
+2021-07-14 07:13:54...Errors were found *************
+2021-07-14 07:13:54...Begin System Check Process *************
+2021-07-14 07:13:54...XML Parsing Support Found
+2021-07-14 07:13:54...JSON Parsing Support Found
+2021-07-14 07:13:54...MBString Support Found
+2021-07-14 07:13:54...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:13:54.../custom directory and subdirectory check passed
+2021-07-14 07:13:54...cache directory and subdirectory check passed
+2021-07-14 07:13:55.../module  directory and subdirectory check passed
+2021-07-14 07:13:55.../upload directory check passed
+2021-07-14 07:13:55...ERROR: Zip support not found.
+2021-07-14 07:13:55...PCRE version check passed
+2021-07-14 07:13:55...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:13:55...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:13:55...Outputting HTML for System check
+2021-07-14 07:13:55...Errors were found *************
+2021-07-14 07:13:55...Begin System Check Process *************
+2021-07-14 07:13:55...XML Parsing Support Found
+2021-07-14 07:13:55...JSON Parsing Support Found
+2021-07-14 07:13:55...MBString Support Found
+2021-07-14 07:13:55...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:13:55.../custom directory and subdirectory check passed
+2021-07-14 07:13:55...cache directory and subdirectory check passed
+2021-07-14 07:13:55.../module  directory and subdirectory check passed
+2021-07-14 07:13:55.../upload directory check passed
+2021-07-14 07:13:55...ERROR: Zip support not found.
+2021-07-14 07:13:55...PCRE version check passed
+2021-07-14 07:13:55...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:13:55...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:13:55...Outputting HTML for System check
+2021-07-14 07:13:55...Errors were found *************
+2021-07-14 07:13:55...Begin System Check Process *************
+2021-07-14 07:13:55...XML Parsing Support Found
+2021-07-14 07:13:55...JSON Parsing Support Found
+2021-07-14 07:13:55...MBString Support Found
+2021-07-14 07:13:55...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:13:55.../custom directory and subdirectory check passed
+2021-07-14 07:13:55...cache directory and subdirectory check passed
+2021-07-14 07:13:55.../module  directory and subdirectory check passed
+2021-07-14 07:13:55.../upload directory check passed
+2021-07-14 07:13:55...ERROR: Zip support not found.
+2021-07-14 07:13:55...PCRE version check passed
+2021-07-14 07:13:55...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:13:55...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:13:55...Outputting HTML for System check
+2021-07-14 07:13:55...Errors were found *************
+2021-07-14 07:13:56...Begin System Check Process *************
+2021-07-14 07:13:56...XML Parsing Support Found
+2021-07-14 07:13:56...JSON Parsing Support Found
+2021-07-14 07:13:56...MBString Support Found
+2021-07-14 07:13:56...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:13:56.../custom directory and subdirectory check passed
+2021-07-14 07:13:56...cache directory and subdirectory check passed
+2021-07-14 07:13:56.../module  directory and subdirectory check passed
+2021-07-14 07:13:56.../upload directory check passed
+2021-07-14 07:13:56...ERROR: Zip support not found.
+2021-07-14 07:13:56...PCRE version check passed
+2021-07-14 07:13:56...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:13:56...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:13:56...Outputting HTML for System check
+2021-07-14 07:13:56...Errors were found *************
+2021-07-14 07:13:56...Begin System Check Process *************
+2021-07-14 07:13:56...XML Parsing Support Found
+2021-07-14 07:13:56...JSON Parsing Support Found
+2021-07-14 07:13:56...MBString Support Found
+2021-07-14 07:13:56...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:13:56.../custom directory and subdirectory check passed
+2021-07-14 07:13:56...cache directory and subdirectory check passed
+2021-07-14 07:13:56.../module  directory and subdirectory check passed
+2021-07-14 07:13:56.../upload directory check passed
+2021-07-14 07:13:56...ERROR: Zip support not found.
+2021-07-14 07:13:56...PCRE version check passed
+2021-07-14 07:13:56...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:13:56...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:13:56...Outputting HTML for System check
+2021-07-14 07:13:56...Errors were found *************
+2021-07-14 07:13:57...Begin System Check Process *************
+2021-07-14 07:13:57...XML Parsing Support Found
+2021-07-14 07:13:57...JSON Parsing Support Found
+2021-07-14 07:13:57...MBString Support Found
+2021-07-14 07:13:57...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:13:57.../custom directory and subdirectory check passed
+2021-07-14 07:13:57...cache directory and subdirectory check passed
+2021-07-14 07:13:57.../module  directory and subdirectory check passed
+2021-07-14 07:13:57.../upload directory check passed
+2021-07-14 07:13:57...ERROR: Zip support not found.
+2021-07-14 07:13:57...PCRE version check passed
+2021-07-14 07:13:57...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:13:57...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:13:57...Outputting HTML for System check
+2021-07-14 07:13:57...Errors were found *************
+2021-07-14 07:13:57...Begin System Check Process *************
+2021-07-14 07:13:57...XML Parsing Support Found
+2021-07-14 07:13:57...JSON Parsing Support Found
+2021-07-14 07:13:57...MBString Support Found
+2021-07-14 07:13:57...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:13:57.../custom directory and subdirectory check passed
+2021-07-14 07:13:57...cache directory and subdirectory check passed
+2021-07-14 07:13:57.../module  directory and subdirectory check passed
+2021-07-14 07:13:57.../upload directory check passed
+2021-07-14 07:13:57...ERROR: Zip support not found.
+2021-07-14 07:13:57...PCRE version check passed
+2021-07-14 07:13:57...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:13:57...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:13:57...Outputting HTML for System check
+2021-07-14 07:13:57...Errors were found *************
+2021-07-14 07:13:59...Begin System Check Process *************
+2021-07-14 07:13:59...XML Parsing Support Found
+2021-07-14 07:13:59...JSON Parsing Support Found
+2021-07-14 07:13:59...MBString Support Found
+2021-07-14 07:13:59...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:13:59.../custom directory and subdirectory check passed
+2021-07-14 07:13:59...cache directory and subdirectory check passed
+2021-07-14 07:13:59.../module  directory and subdirectory check passed
+2021-07-14 07:13:59.../upload directory check passed
+2021-07-14 07:13:59...ERROR: Zip support not found.
+2021-07-14 07:13:59...PCRE version check passed
+2021-07-14 07:13:59...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:13:59...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:13:59...Outputting HTML for System check
+2021-07-14 07:13:59...Errors were found *************
+2021-07-14 07:13:59...Begin System Check Process *************
+2021-07-14 07:13:59...XML Parsing Support Found
+2021-07-14 07:13:59...JSON Parsing Support Found
+2021-07-14 07:13:59...MBString Support Found
+2021-07-14 07:13:59...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:13:59.../custom directory and subdirectory check passed
+2021-07-14 07:13:59...cache directory and subdirectory check passed
+2021-07-14 07:13:59.../module  directory and subdirectory check passed
+2021-07-14 07:13:59.../upload directory check passed
+2021-07-14 07:13:59...ERROR: Zip support not found.
+2021-07-14 07:13:59...PCRE version check passed
+2021-07-14 07:13:59...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:13:59...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:13:59...Outputting HTML for System check
+2021-07-14 07:13:59...Errors were found *************
+2021-07-14 07:14:00...Begin System Check Process *************
+2021-07-14 07:14:00...XML Parsing Support Found
+2021-07-14 07:14:00...JSON Parsing Support Found
+2021-07-14 07:14:00...MBString Support Found
+2021-07-14 07:14:00...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:14:00.../custom directory and subdirectory check passed
+2021-07-14 07:14:00...cache directory and subdirectory check passed
+2021-07-14 07:14:00.../module  directory and subdirectory check passed
+2021-07-14 07:14:00.../upload directory check passed
+2021-07-14 07:14:00...ERROR: Zip support not found.
+2021-07-14 07:14:00...PCRE version check passed
+2021-07-14 07:14:00...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:14:00...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:14:00...Outputting HTML for System check
+2021-07-14 07:14:00...Errors were found *************
+2021-07-14 07:14:00...Begin System Check Process *************
+2021-07-14 07:14:00...XML Parsing Support Found
+2021-07-14 07:14:00...JSON Parsing Support Found
+2021-07-14 07:14:00...MBString Support Found
+2021-07-14 07:14:00...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:14:00.../custom directory and subdirectory check passed
+2021-07-14 07:14:00...cache directory and subdirectory check passed
+2021-07-14 07:14:00.../module  directory and subdirectory check passed
+2021-07-14 07:14:00.../upload directory check passed
+2021-07-14 07:14:00...ERROR: Zip support not found.
+2021-07-14 07:14:00...PCRE version check passed
+2021-07-14 07:14:00...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:14:00...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:14:00...Outputting HTML for System check
+2021-07-14 07:14:00...Errors were found *************
+2021-07-14 07:14:08...Begin System Check Process *************
+2021-07-14 07:14:08...XML Parsing Support Found
+2021-07-14 07:14:08...JSON Parsing Support Found
+2021-07-14 07:14:08...MBString Support Found
+2021-07-14 07:14:08...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:14:08.../custom directory and subdirectory check passed
+2021-07-14 07:14:08...cache directory and subdirectory check passed
+2021-07-14 07:14:08.../module  directory and subdirectory check passed
+2021-07-14 07:14:08.../upload directory check passed
+2021-07-14 07:14:08...ERROR: Zip support not found.
+2021-07-14 07:14:08...PCRE version check passed
+2021-07-14 07:14:08...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:14:08...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:14:08...Outputting HTML for System check
+2021-07-14 07:14:08...Errors were found *************
+2021-07-14 07:14:09...Begin System Check Process *************
+2021-07-14 07:14:09...XML Parsing Support Found
+2021-07-14 07:14:09...JSON Parsing Support Found
+2021-07-14 07:14:09...MBString Support Found
+2021-07-14 07:14:09...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:14:09.../custom directory and subdirectory check passed
+2021-07-14 07:14:09...cache directory and subdirectory check passed
+2021-07-14 07:14:09.../module  directory and subdirectory check passed
+2021-07-14 07:14:09.../upload directory check passed
+2021-07-14 07:14:09...ERROR: Zip support not found.
+2021-07-14 07:14:09...PCRE version check passed
+2021-07-14 07:14:09...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:14:09...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:14:09...Outputting HTML for System check
+2021-07-14 07:14:09...Errors were found *************
+2021-07-14 07:14:10...Begin System Check Process *************
+2021-07-14 07:14:10...XML Parsing Support Found
+2021-07-14 07:14:10...JSON Parsing Support Found
+2021-07-14 07:14:10...MBString Support Found
+2021-07-14 07:14:10...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:14:10.../custom directory and subdirectory check passed
+2021-07-14 07:14:10...cache directory and subdirectory check passed
+2021-07-14 07:14:10.../module  directory and subdirectory check passed
+2021-07-14 07:14:10.../upload directory check passed
+2021-07-14 07:14:10...ERROR: Zip support not found.
+2021-07-14 07:14:10...PCRE version check passed
+2021-07-14 07:14:10...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:14:10...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:14:10...Outputting HTML for System check
+2021-07-14 07:14:10...Errors were found *************
+2021-07-14 07:14:10...Begin System Check Process *************
+2021-07-14 07:14:10...XML Parsing Support Found
+2021-07-14 07:14:10...JSON Parsing Support Found
+2021-07-14 07:14:10...MBString Support Found
+2021-07-14 07:14:10...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:14:10.../custom directory and subdirectory check passed
+2021-07-14 07:14:10...cache directory and subdirectory check passed
+2021-07-14 07:14:10.../module  directory and subdirectory check passed
+2021-07-14 07:14:10.../upload directory check passed
+2021-07-14 07:14:10...ERROR: Zip support not found.
+2021-07-14 07:14:10...PCRE version check passed
+2021-07-14 07:14:10...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:14:10...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:14:10...Outputting HTML for System check
+2021-07-14 07:14:10...Errors were found *************
+2021-07-14 07:14:11...Begin System Check Process *************
+2021-07-14 07:14:11...XML Parsing Support Found
+2021-07-14 07:14:11...JSON Parsing Support Found
+2021-07-14 07:14:11...MBString Support Found
+2021-07-14 07:14:11...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:14:11.../custom directory and subdirectory check passed
+2021-07-14 07:14:11...cache directory and subdirectory check passed
+2021-07-14 07:14:11.../module  directory and subdirectory check passed
+2021-07-14 07:14:11.../upload directory check passed
+2021-07-14 07:14:11...ERROR: Zip support not found.
+2021-07-14 07:14:11...PCRE version check passed
+2021-07-14 07:14:11...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:14:11...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:14:11...Outputting HTML for System check
+2021-07-14 07:14:11...Errors were found *************
+2021-07-14 07:14:11...Begin System Check Process *************
+2021-07-14 07:14:11...XML Parsing Support Found
+2021-07-14 07:14:11...JSON Parsing Support Found
+2021-07-14 07:14:11...MBString Support Found
+2021-07-14 07:14:11...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:14:11.../custom directory and subdirectory check passed
+2021-07-14 07:14:11...cache directory and subdirectory check passed
+2021-07-14 07:14:11.../module  directory and subdirectory check passed
+2021-07-14 07:14:11.../upload directory check passed
+2021-07-14 07:14:11...ERROR: Zip support not found.
+2021-07-14 07:14:11...PCRE version check passed
+2021-07-14 07:14:11...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:14:11...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:14:11...Outputting HTML for System check
+2021-07-14 07:14:11...Errors were found *************
+2021-07-14 07:14:12...Begin System Check Process *************
+2021-07-14 07:14:12...XML Parsing Support Found
+2021-07-14 07:14:12...JSON Parsing Support Found
+2021-07-14 07:14:12...MBString Support Found
+2021-07-14 07:14:12...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:14:12.../custom directory and subdirectory check passed
+2021-07-14 07:14:12...cache directory and subdirectory check passed
+2021-07-14 07:14:13.../module  directory and subdirectory check passed
+2021-07-14 07:14:13.../upload directory check passed
+2021-07-14 07:14:13...ERROR: Zip support not found.
+2021-07-14 07:14:13...PCRE version check passed
+2021-07-14 07:14:13...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:14:13...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:14:13...Outputting HTML for System check
+2021-07-14 07:14:13...Errors were found *************
+2021-07-14 07:14:14...Begin System Check Process *************
+2021-07-14 07:14:14...XML Parsing Support Found
+2021-07-14 07:14:14...JSON Parsing Support Found
+2021-07-14 07:14:14...MBString Support Found
+2021-07-14 07:14:14...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:14:14.../custom directory and subdirectory check passed
+2021-07-14 07:14:14...cache directory and subdirectory check passed
+2021-07-14 07:14:14.../module  directory and subdirectory check passed
+2021-07-14 07:14:14.../upload directory check passed
+2021-07-14 07:14:14...ERROR: Zip support not found.
+2021-07-14 07:14:14...PCRE version check passed
+2021-07-14 07:14:14...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:14:14...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:14:14...Outputting HTML for System check
+2021-07-14 07:14:14...Errors were found *************
+2021-07-14 07:14:15...Begin System Check Process *************
+2021-07-14 07:14:15...XML Parsing Support Found
+2021-07-14 07:14:15...JSON Parsing Support Found
+2021-07-14 07:14:15...MBString Support Found
+2021-07-14 07:14:15...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:14:15.../custom directory and subdirectory check passed
+2021-07-14 07:14:15...cache directory and subdirectory check passed
+2021-07-14 07:14:15.../module  directory and subdirectory check passed
+2021-07-14 07:14:15.../upload directory check passed
+2021-07-14 07:14:15...ERROR: Zip support not found.
+2021-07-14 07:14:15...PCRE version check passed
+2021-07-14 07:14:15...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:14:15...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:14:15...Outputting HTML for System check
+2021-07-14 07:14:15...Errors were found *************
+2021-07-14 07:14:15...Begin System Check Process *************
+2021-07-14 07:14:15...XML Parsing Support Found
+2021-07-14 07:14:15...JSON Parsing Support Found
+2021-07-14 07:14:15...MBString Support Found
+2021-07-14 07:14:15...ERROR:: ZIP support not found: SuiteCRM needs ZIP support in order to process compressed files.
+2021-07-14 07:14:15.../custom directory and subdirectory check passed
+2021-07-14 07:14:15...cache directory and subdirectory check passed
+2021-07-14 07:14:15.../module  directory and subdirectory check passed
+2021-07-14 07:14:15.../upload directory check passed
+2021-07-14 07:14:15...ERROR: Zip support not found.
+2021-07-14 07:14:15...PCRE version check passed
+2021-07-14 07:14:15...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:14:15...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:14:15...Outputting HTML for System check
+2021-07-14 07:14:15...Errors were found *************
+2021-07-14 07:14:51...Begin System Check Process *************
+2021-07-14 07:14:51...XML Parsing Support Found
+2021-07-14 07:14:51...JSON Parsing Support Found
+2021-07-14 07:14:51...MBString Support Found
+2021-07-14 07:14:51...ZIP Support Found
+2021-07-14 07:14:51.../custom directory and subdirectory check passed
+2021-07-14 07:14:51...cache directory and subdirectory check passed
+2021-07-14 07:14:51.../module  directory and subdirectory check passed
+2021-07-14 07:14:51.../upload directory check passed
+2021-07-14 07:14:51.../zip check passed
+2021-07-14 07:14:51...PCRE version check passed
+2021-07-14 07:14:51...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:14:51...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:14:51...Outputting HTML for System check
+2021-07-14 07:14:51...No Errors were found *************
+2021-07-14 07:14:51...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:15:19...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:15:24...Begin System Check Process *************
+2021-07-14 07:15:24...XML Parsing Support Found
+2021-07-14 07:15:24...JSON Parsing Support Found
+2021-07-14 07:15:24...MBString Support Found
+2021-07-14 07:15:24...ZIP Support Found
+2021-07-14 07:15:24.../custom directory and subdirectory check passed
+2021-07-14 07:15:24...cache directory and subdirectory check passed
+2021-07-14 07:15:24.../module  directory and subdirectory check passed
+2021-07-14 07:15:24.../upload directory check passed
+2021-07-14 07:15:24.../zip check passed
+2021-07-14 07:15:24...PCRE version check passed
+2021-07-14 07:15:24...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:15:24...php.ini location found. /etc/php/7.4/apache2/php.ini
+2021-07-14 07:15:24...Outputting HTML for System check
+2021-07-14 07:15:24...No Errors were found *************
+2021-07-14 07:15:24...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:20:02...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:20:18...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:21:10...Begin DB Check Process *************
+2021-07-14 07:21:10...testing with mysql:mysqli
+2021-07-14 07:21:10...Basic form info is valid, continuing Process.
+2021-07-14 07:21:10...Testing user account...
+2021-07-14 07:21:10...Connection made using  host: localhost, usr: hasham
+2021-07-14 07:21:10...SUCCESS:: no errors detected!
+2021-07-14 07:21:10...End DB Check Process *************
+2021-07-14 07:21:10...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 07:21:10...calling handleSugarConfig()
+2021-07-14 07:21:10...calling handleHtaccess()
+2021-07-14 07:21:10...calling handleDbCreateDatabase()
+2021-07-14 07:21:11...looping through all the Beans and create their tables
+2021-07-14 07:21:11...processing table acl_actions
+2021-07-14 07:21:13...creating table acl_actions
+2021-07-14 07:21:13...creating Relationship Meta for ACLAction
+2021-07-14 07:21:13...processing table acl_roles
+2021-07-14 07:21:13...creating table acl_roles
+2021-07-14 07:21:13...creating Relationship Meta for ACLRole
+2021-07-14 07:21:13...processing table relationships
+2021-07-14 07:21:14...creating table relationships
+2021-07-14 07:21:14...creating Relationship Meta for Relationship
+2021-07-14 07:21:15...processing table leads
+2021-07-14 07:21:19...creating table leads
+2021-07-14 07:21:19...creating Relationship Meta for Lead
+2021-07-14 07:21:21...processing table cases
+2021-07-14 07:21:25...creating table cases
+2021-07-14 07:21:25...creating Relationship Meta for Case
+2021-07-14 07:21:26...processing table bugs
+2021-07-14 07:21:30...creating table bugs
+2021-07-14 07:21:30...creating Relationship Meta for Bug
+2021-07-14 07:21:32...processing table users
+2021-07-14 07:21:34...creating table users
+2021-07-14 07:21:34...creating Relationship Meta for User
+2021-07-14 07:21:34...processing table campaign_log
+2021-07-14 07:21:36...creating table campaign_log
+2021-07-14 07:21:36...creating Relationship Meta for CampaignLog
+2021-07-14 07:21:37...processing table project
+2021-07-14 07:21:39...creating table project
+2021-07-14 07:21:39...creating Relationship Meta for Project
+2021-07-14 07:21:40...processing table project_task
+2021-07-14 07:21:43...creating table project_task
+2021-07-14 07:21:43...creating Relationship Meta for ProjectTask
+2021-07-14 07:21:45...processing table campaigns
+2021-07-14 07:21:49...creating table campaigns
+2021-07-14 07:21:49...creating Relationship Meta for Campaign
+2021-07-14 07:21:51...processing table prospect_lists
+2021-07-14 07:21:53...creating table prospect_lists
+2021-07-14 07:21:53...creating Relationship Meta for ProspectList
+2021-07-14 07:21:53...processing table prospects
+2021-07-14 07:21:56...creating table prospects
+2021-07-14 07:21:56...creating Relationship Meta for Prospect
+2021-07-14 07:21:58...processing table email_marketing
+2021-07-14 07:22:01...creating table email_marketing
+2021-07-14 07:22:01...creating Relationship Meta for EmailMarketing
+2021-07-14 07:22:01...processing table campaign_trkrs
+2021-07-14 07:22:02...creating table campaign_trkrs
+2021-07-14 07:22:02...creating Relationship Meta for CampaignTracker
+2021-07-14 07:22:02...processing table releases
+2021-07-14 07:22:03...creating table releases
+2021-07-14 07:22:03...creating Relationship Meta for Release
+2021-07-14 07:22:03...processing table emailman
+2021-07-14 07:22:04...creating table emailman
+2021-07-14 07:22:04...creating Relationship Meta for EmailMan
+2021-07-14 07:22:04...processing table schedulers
+2021-07-14 07:22:05...creating table schedulers
+2021-07-14 07:22:05...creating Relationship Meta for Scheduler
+2021-07-14 07:22:06...processing table job_queue
+2021-07-14 07:22:07...creating table job_queue
+2021-07-14 07:22:07...creating Relationship Meta for SchedulersJob
+2021-07-14 07:22:07...processing table contacts
+2021-07-14 07:22:11...creating table contacts
+2021-07-14 07:22:11...creating Relationship Meta for Contact
+2021-07-14 07:22:14...processing table accounts
+2021-07-14 07:22:18...creating table accounts
+2021-07-14 07:22:18...creating Relationship Meta for Account
+2021-07-14 07:22:21...processing table opportunities
+2021-07-14 07:22:24...creating table opportunities
+2021-07-14 07:22:24...creating Relationship Meta for Opportunity
+2021-07-14 07:22:26...processing table email_templates
+2021-07-14 07:22:28...creating table email_templates
+2021-07-14 07:22:28...creating Relationship Meta for EmailTemplate
+2021-07-14 07:22:29...processing table notes
+2021-07-14 07:22:31...creating table notes
+2021-07-14 07:22:31...creating Relationship Meta for Note
+2021-07-14 07:22:32...processing table calls
+2021-07-14 07:22:35...creating table calls
+2021-07-14 07:22:35...creating Relationship Meta for Call
+2021-07-14 07:22:35...processing table emails
+2021-07-14 07:22:38...creating table emails
+2021-07-14 07:22:38...creating Relationship Meta for Email
+2021-07-14 07:22:40...processing table meetings
+2021-07-14 07:22:42...creating table meetings
+2021-07-14 07:22:42...creating Relationship Meta for Meeting
+2021-07-14 07:22:43...processing table tasks
+2021-07-14 07:22:46...creating table tasks
+2021-07-14 07:22:46...creating Relationship Meta for Task
+2021-07-14 07:22:47...processing table users
+2021-07-14 07:22:47...processing table users
+2021-07-14 07:22:47...processing table currencies
+2021-07-14 07:22:48...creating table currencies
+2021-07-14 07:22:48...creating Relationship Meta for Currency
+2021-07-14 07:22:48...processing table tracker
+2021-07-14 07:22:49...creating table tracker
+2021-07-14 07:22:49...creating Relationship Meta for Tracker
+2021-07-14 07:22:49...processing table import_maps
+2021-07-14 07:22:50...creating table import_maps
+2021-07-14 07:22:50...creating Relationship Meta for ImportMap
+2021-07-14 07:22:50...processing table users_last_import
+2021-07-14 07:22:52...creating table users_last_import
+2021-07-14 07:22:52...creating Relationship Meta for UsersLastImport
+2021-07-14 07:22:52...processing table config
+2021-07-14 07:22:53...creating table config
+2021-07-14 07:22:53...creating Relationship Meta for Administration
+2021-07-14 07:22:53...processing table upgrade_history
+2021-07-14 07:22:54...creating table upgrade_history
+2021-07-14 07:22:54...creating Relationship Meta for UpgradeHistory
+2021-07-14 07:22:54...processing table vcals
+2021-07-14 07:22:55...creating table vcals
+2021-07-14 07:22:55...creating Relationship Meta for vCal
+2021-07-14 07:22:55...processing table alerts
+2021-07-14 07:22:57...creating table alerts
+2021-07-14 07:22:57...creating Relationship Meta for Alert
+2021-07-14 07:22:57...processing table roles
+2021-07-14 07:22:58...creating table roles
+2021-07-14 07:22:58...creating Relationship Meta for Role
+2021-07-14 07:22:58...processing table documents
+2021-07-14 07:23:01...creating table documents
+2021-07-14 07:23:01...creating Relationship Meta for Document
+2021-07-14 07:23:01...processing table document_revisions
+2021-07-14 07:23:02...creating table document_revisions
+2021-07-14 07:23:02...creating Relationship Meta for DocumentRevision
+2021-07-14 07:23:03...processing table fields_meta_data
+2021-07-14 07:23:04...creating table fields_meta_data
+2021-07-14 07:23:04...creating Relationship Meta for FieldsMetaData
+2021-07-14 07:23:04...processing table 
+2021-07-14 07:23:04...processing table inbound_email
+2021-07-14 07:23:05...creating table inbound_email
+2021-07-14 07:23:05...creating Relationship Meta for InboundEmail
+2021-07-14 07:23:05...processing table saved_search
+2021-07-14 07:23:06...creating table saved_search
+2021-07-14 07:23:06...creating Relationship Meta for SavedSearch
+2021-07-14 07:23:06...processing table user_preferences
+2021-07-14 07:23:07...creating table user_preferences
+2021-07-14 07:23:07...creating Relationship Meta for UserPreference
+2021-07-14 07:23:07...processing table 
+2021-07-14 07:23:07...processing table email_addresses
+2021-07-14 07:23:10...creating table email_addresses
+2021-07-14 07:23:10...creating Relationship Meta for EmailAddress
+2021-07-14 07:23:10...processing table emails_text
+2021-07-14 07:23:11...creating table emails_text
+2021-07-14 07:23:11...creating Relationship Meta for EmailText
+2021-07-14 07:23:11...processing table spots
+2021-07-14 07:23:13...creating table spots
+2021-07-14 07:23:13...creating Relationship Meta for Spots
+2021-07-14 07:23:13...processing table aobh_businesshours
+2021-07-14 07:23:14...creating table aobh_businesshours
+2021-07-14 07:23:14...creating Relationship Meta for AOBH_BusinessHours
+2021-07-14 07:23:15...processing table sugarfeed
+2021-07-14 07:23:16...creating table sugarfeed
+2021-07-14 07:23:16...creating Relationship Meta for SugarFeed
+2021-07-14 07:23:16...processing table eapm
+2021-07-14 07:23:18...creating table eapm
+2021-07-14 07:23:18...creating Relationship Meta for EAPM
+2021-07-14 07:23:19...processing table oauth_consumer
+2021-07-14 07:23:20...creating table oauth_consumer
+2021-07-14 07:23:20...creating Relationship Meta for OAuthKey
+2021-07-14 07:23:20...processing table oauth_tokens
+2021-07-14 07:23:22...creating table oauth_tokens
+2021-07-14 07:23:22...creating Relationship Meta for OAuthToken
+2021-07-14 07:23:22...processing table am_projecttemplates
+2021-07-14 07:23:26...creating table am_projecttemplates
+2021-07-14 07:23:26...creating Relationship Meta for AM_ProjectTemplates
+2021-07-14 07:23:26...processing table am_tasktemplates
+2021-07-14 07:23:30...creating table am_tasktemplates
+2021-07-14 07:23:30...creating Relationship Meta for AM_TaskTemplates
+2021-07-14 07:23:30...processing table favorites
+2021-07-14 07:23:31...creating table favorites
+2021-07-14 07:23:31...creating Relationship Meta for Favorites
+2021-07-14 07:23:32...processing table aok_knowledge_base_categories
+2021-07-14 07:23:35...creating table aok_knowledge_base_categories
+2021-07-14 07:23:35...creating Relationship Meta for AOK_Knowledge_Base_Categories
+2021-07-14 07:23:36...processing table aok_knowledgebase
+2021-07-14 07:23:39...creating table aok_knowledgebase
+2021-07-14 07:23:39...creating Relationship Meta for AOK_KnowledgeBase
+2021-07-14 07:23:40...processing table reminders
+2021-07-14 07:23:42...creating table reminders
+2021-07-14 07:23:42...creating Relationship Meta for Reminder
+2021-07-14 07:23:42...processing table reminders_invitees
+2021-07-14 07:23:44...creating table reminders_invitees
+2021-07-14 07:23:44...creating Relationship Meta for Reminder_Invitee
+2021-07-14 07:23:44...processing table fp_events
+2021-07-14 07:23:48...creating table fp_events
+2021-07-14 07:23:48...creating Relationship Meta for FP_events
+2021-07-14 07:23:49...processing table fp_event_locations
+2021-07-14 07:23:52...creating table fp_event_locations
+2021-07-14 07:23:52...creating Relationship Meta for FP_Event_Locations
+2021-07-14 07:23:53...processing table aod_indexevent
+2021-07-14 07:23:56...creating table aod_indexevent
+2021-07-14 07:23:56...creating Relationship Meta for AOD_IndexEvent
+2021-07-14 07:23:57...processing table aod_index
+2021-07-14 07:24:00...creating table aod_index
+2021-07-14 07:24:00...creating Relationship Meta for AOD_Index
+2021-07-14 07:24:00...processing table aop_case_events
+2021-07-14 07:24:03...creating table aop_case_events
+2021-07-14 07:24:03...creating Relationship Meta for AOP_Case_Events
+2021-07-14 07:24:04...processing table aop_case_updates
+2021-07-14 07:24:07...creating table aop_case_updates
+2021-07-14 07:24:07...creating Relationship Meta for AOP_Case_Updates
+2021-07-14 07:24:08...processing table aor_reports
+2021-07-14 07:24:11...creating table aor_reports
+2021-07-14 07:24:11...creating Relationship Meta for AOR_Report
+2021-07-14 07:24:13...processing table aor_fields
+2021-07-14 07:24:14...creating table aor_fields
+2021-07-14 07:24:14...creating Relationship Meta for AOR_Field
+2021-07-14 07:24:14...processing table aor_charts
+2021-07-14 07:24:15...creating table aor_charts
+2021-07-14 07:24:15...creating Relationship Meta for AOR_Chart
+2021-07-14 07:24:15...processing table aor_conditions
+2021-07-14 07:24:16...creating table aor_conditions
+2021-07-14 07:24:16...creating Relationship Meta for AOR_Condition
+2021-07-14 07:24:17...processing table aor_scheduled_reports
+2021-07-14 07:24:19...creating table aor_scheduled_reports
+2021-07-14 07:24:19...creating Relationship Meta for AOR_Scheduled_Reports
+2021-07-14 07:24:19...processing table aos_contracts
+2021-07-14 07:24:22...creating table aos_contracts
+2021-07-14 07:24:22...creating Relationship Meta for AOS_Contracts
+2021-07-14 07:24:24...processing table aos_invoices
+2021-07-14 07:24:27...creating table aos_invoices
+2021-07-14 07:24:27...creating Relationship Meta for AOS_Invoices
+2021-07-14 07:24:28...processing table aos_pdf_templates
+2021-07-14 07:24:31...creating table aos_pdf_templates
+2021-07-14 07:24:31...creating Relationship Meta for AOS_PDF_Templates
+2021-07-14 07:24:32...processing table aos_product_categories
+2021-07-14 07:24:35...creating table aos_product_categories
+2021-07-14 07:24:35...creating Relationship Meta for AOS_Product_Categories
+2021-07-14 07:24:36...processing table aos_products
+2021-07-14 07:24:39...creating table aos_products
+2021-07-14 07:24:39...creating Relationship Meta for AOS_Products
+2021-07-14 07:24:40...processing table aos_products_quotes
+2021-07-14 07:24:42...creating table aos_products_quotes
+2021-07-14 07:24:42...creating Relationship Meta for AOS_Products_Quotes
+2021-07-14 07:24:43...processing table aos_line_item_groups
+2021-07-14 07:24:45...creating table aos_line_item_groups
+2021-07-14 07:24:45...creating Relationship Meta for AOS_Line_Item_Groups
+2021-07-14 07:24:45...processing table aos_quotes
+2021-07-14 07:24:49...creating table aos_quotes
+2021-07-14 07:24:49...creating Relationship Meta for AOS_Quotes
+2021-07-14 07:24:50...processing table aow_actions
+2021-07-14 07:24:51...creating table aow_actions
+2021-07-14 07:24:51...creating Relationship Meta for AOW_Action
+2021-07-14 07:24:51...processing table aow_workflow
+2021-07-14 07:24:54...creating table aow_workflow
+2021-07-14 07:24:54...creating Relationship Meta for AOW_WorkFlow
+2021-07-14 07:24:55...processing table aow_processed
+2021-07-14 07:24:58...creating table aow_processed
+2021-07-14 07:24:58...creating Relationship Meta for AOW_Processed
+2021-07-14 07:24:58...processing table aow_conditions
+2021-07-14 07:24:59...creating table aow_conditions
+2021-07-14 07:24:59...creating Relationship Meta for AOW_Condition
+2021-07-14 07:25:00...processing table jjwg_maps
+2021-07-14 07:25:03...creating table jjwg_maps
+2021-07-14 07:25:03...creating Relationship Meta for jjwg_Maps
+2021-07-14 07:25:05...processing table jjwg_markers
+2021-07-14 07:25:08...creating table jjwg_markers
+2021-07-14 07:25:08...creating Relationship Meta for jjwg_Markers
+2021-07-14 07:25:09...processing table jjwg_areas
+2021-07-14 07:25:12...creating table jjwg_areas
+2021-07-14 07:25:12...creating Relationship Meta for jjwg_Areas
+2021-07-14 07:25:13...processing table jjwg_address_cache
+2021-07-14 07:25:16...creating table jjwg_address_cache
+2021-07-14 07:25:16...creating Relationship Meta for jjwg_Address_Cache
+2021-07-14 07:25:17...processing table calls_reschedule
+2021-07-14 07:25:20...creating table calls_reschedule
+2021-07-14 07:25:20...creating Relationship Meta for Calls_Reschedule
+2021-07-14 07:25:21...processing table securitygroups
+2021-07-14 07:25:25...creating table securitygroups
+2021-07-14 07:25:25...creating Relationship Meta for SecurityGroup
+2021-07-14 07:25:25...processing table outbound_email
+2021-07-14 07:25:29...creating table outbound_email
+2021-07-14 07:25:29...creating Relationship Meta for OutboundEmailAccounts
+2021-07-14 07:25:30...processing table templatesectionline
+2021-07-14 07:25:32...creating table templatesectionline
+2021-07-14 07:25:32...creating Relationship Meta for TemplateSectionLine
+2021-07-14 07:25:33...processing table oauth2tokens
+2021-07-14 07:25:34...creating table oauth2tokens
+2021-07-14 07:25:34...creating Relationship Meta for OAuth2Tokens
+2021-07-14 07:25:34...processing table oauth2clients
+2021-07-14 07:25:36...creating table oauth2clients
+2021-07-14 07:25:36...creating Relationship Meta for OAuth2Clients
+2021-07-14 07:25:36...processing table surveyresponses
+2021-07-14 07:25:40...creating table surveyresponses
+2021-07-14 07:25:40...creating Relationship Meta for SurveyResponses
+2021-07-14 07:25:41...processing table surveys
+2021-07-14 07:25:44...creating table surveys
+2021-07-14 07:25:44...creating Relationship Meta for Surveys
+2021-07-14 07:25:45...processing table surveyquestionresponses
+2021-07-14 07:25:49...creating table surveyquestionresponses
+2021-07-14 07:25:49...creating Relationship Meta for SurveyQuestionResponses
+2021-07-14 07:25:49...processing table surveyquestions
+2021-07-14 07:25:53...creating table surveyquestions
+2021-07-14 07:25:53...creating Relationship Meta for SurveyQuestions
+2021-07-14 07:25:54...processing table surveyquestionoptions
+2021-07-14 07:25:57...creating table surveyquestionoptions
+2021-07-14 07:25:57...creating Relationship Meta for SurveyQuestionOptions
+2021-07-14 07:27:47...Begin creating Defaults
+2021-07-14 07:27:47...insert defaults into config table
+2021-07-14 07:27:48...Creating default users
+2021-07-14 07:27:49...Creating default scheduler jobs
+2021-07-14 07:27:51...Enable SugarFeeds
+2021-07-14 07:27:53...Installation has completed *********
+2021-07-14 07:31:00...populating the db with seed data
+2021-07-14 07:31:00...Save configuration settings..
+2021-07-14 07:31:00...save locale
+2021-07-14 07:31:00...new Administration
+2021-07-14 07:31:00...retrieveSettings
+2021-07-14 07:31:00...AdminWizard OFF
+2021-07-14 07:31:01...saveConfig
+2021-07-14 07:31:01...new Configurator
+2021-07-14 07:31:01...populateFromPost
+2021-07-14 07:31:01...handleOverride
+2021-07-14 07:31:01...addCronAllowedUser
+2021-07-14 07:31:01...saveConfig
+2021-07-14 07:31:01...new Currency
+2021-07-14 07:31:01...retrieve
+2021-07-14 07:31:01...DBG: save currency
+2021-07-14 07:31:01...Save user settings..
+2021-07-14 07:31:02...DBG: SugarThemeRegistry::getDefault
+2021-07-14 07:31:46...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute
+2021-07-14 08:08:32...installerHook: Info: custom/install/install_hooks.php not present, no custom hooks to execute

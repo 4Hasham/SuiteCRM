@@ -1,0 +1,9 @@
+Inside the first logic hook
+(2021-07-23 08:26:18am)
+
+Inside the first logic hook
+(2021-07-23 08:40:37am)
+
+Inside the second logic hook
+(2021-07-23 08:40:37am)
+
