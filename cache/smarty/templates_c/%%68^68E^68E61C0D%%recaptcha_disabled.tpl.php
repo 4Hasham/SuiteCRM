@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2021-07-23 22:10:34
+<?php /* Smarty version 2.6.31, created on 2021-07-27 16:13:16
          compiled from /var/www/html/SuiteCRM/include/utils/recaptcha_disabled.tpl */ ?>
 <?php echo '
 <script>

@@ -6,8 +6,10 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'e88992873b7765f9b5710cab95ba5dd7' => $vendorDir . '/hoa/consistency/Prelude.php',
     '7b11c4dc42b3b3023073cb14e519683c' => $vendorDir . '/ralouphie/getallheaders/src/getallheaders.php',
     'a0edc8309cc5e1d60e3047b5df6b7052' => $vendorDir . '/guzzlehttp/psr7/src/functions_include.php',
+    '3e76f7f02b41af8cea96018933f6b7e3' => $vendorDir . '/hoa/protocol/Wrapper.php',
     'c964ee0ededf28c96ebd9db5099ef910' => $vendorDir . '/guzzlehttp/promises/src/functions_include.php',
     '5255c38a0faeba867671b61dfda6d864' => $vendorDir . '/paragonie/random_compat/lib/random.php',
     '37a3dc5111fe8f707ab4c132ef1dbc62' => $vendorDir . '/guzzlehttp/guzzle/src/functions_include.php',
@@ -36,6 +38,7 @@ return array(
     '50b81ffc01da30f98e463592787d7917' => $vendorDir . '/jeremykendall/php-domain-parser/src/pdp-parse-url.php',
     '253c157292f75eb38082b5acb06f3f01' => $vendorDir . '/nikic/fast-route/src/functions.php',
     'b46ad4fe52f4d1899a2951c7e6ea56b0' => $vendorDir . '/voku/portable-utf8/bootstrap.php',
+    '6124b4c8570aa390c21fafd04a26c69f' => $vendorDir . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
     '2cffec82183ee1cea088009cef9a6fc3' => $vendorDir . '/ezyang/htmlpurifier/library/HTMLPurifier.composer.php',
     'a8d3953fd9959404dd22d3dfcd0a79f0' => $vendorDir . '/google/apiclient/src/aliases.php',
     'ee05f3eb6cd106ac99bfaf4d0d9829d8' => $vendorDir . '/league/uri/src/functions_include.php',

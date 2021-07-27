@@ -37,6 +37,34 @@
  * display the words "Powered by SugarCRM" and "Supercharged by SuiteCRM".
  */
 
+ #myVideo {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	}
+	div.p_login #loginform {
+	position: relative;
+	background-color: #1274b4 !important;
+	}
+	.p_login_top
+	{
+	display:none;
+	}
+	.p_login_middle
+	{
+	background-color:initial !important;
+	/* background-image:url(https://dev-atm.powerplaydestination.com/custom/include/images/pp-login-bg.jpg) !important; */
+	background-size:cover;
+	height:100%;
+	
+	
+	}
+	.p_login_bottom
+	{
+	display:none;
+	}
+
  .body { 
 	font-size: 12px;
 }

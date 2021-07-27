@@ -1,5 +1,5 @@
 <?php
-// created: 2021-07-23 17:39:44
+// created: 2021-07-27 16:09:19
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -37,4 +37,6 @@ $mod_strings = array (
   'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activities',
   'LBL_HD1_HELPDESK_SUBPANEL_TITLE' => 'HelpDesk1',
   'LBL_NEW_FORM_TITLE' => 'New HelpDesk1',
+  'LBL_DETAILVIEW_PANEL1' => 'Stuff',
+  'LBL_EDITVIEW_PANEL1' => 'Stuff',
 );

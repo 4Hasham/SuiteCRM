@@ -44,6 +44,9 @@
 
 global $mod_strings, $app_strings, $sugar_config;
  
+if(ACLController::checkAccess('HD1_HelpDesk', 'validationpageedit', true)){
+    $module_menu[]=array('index.php?module=HD1_HelpDesk&action=validationpageedit&return_module=HD1_HelpDesk&return_action=DetailView', $mod_strings['LNK_NEW_RECORD'], 'Add', 'HD1_HelpDesk');
+}
 if(ACLController::checkAccess('HD1_HelpDesk', 'edit', true)){
     $module_menu[]=array('index.php?module=HD1_HelpDesk&action=EditView&return_module=HD1_HelpDesk&return_action=DetailView', $mod_strings['LNK_NEW_RECORD'], 'Add', 'HD1_HelpDesk');
 }

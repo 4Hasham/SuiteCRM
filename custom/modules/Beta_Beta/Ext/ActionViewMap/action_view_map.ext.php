@@ -4,7 +4,4 @@
 
     $action_view_map['redrdetail'] = 'redrdetail';
 
-
-    $action_view_map['customredredit'] = 'customredredit'
-
 ?>

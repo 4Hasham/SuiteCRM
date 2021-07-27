@@ -452,7 +452,8 @@ $sugar_config = array (
   'tmp_dir' => 'cache/xml/',
   'tracker_max_display_length' => 15,
   'translation_string_prefix' => false,
-  'unique_key' => 'ec58ca12ed3a957a058e0fcce1f6ee23',
+ // 'unique_key' => 'ec58ca12ed3a957a058e0fcce1f6ee23',
+ 'unique_key' => 'ec58ca12ed3a957a058e0fcce1f6ee23FF',
   'upload_badext' => 
   array (
     0 => 'php',

@@ -7,3 +7,5 @@ $mod_strings = array (
   'LBL_DETAILVIEW_PANEL1' => 'User Stuff',
   'LBL_DETAILVIEW_PANEL2' => 'New Panel 2',
 );
+
+$mod_strings['LBL_SUBTHEME_OPTIONS_MYTHEME'] = 'MyTheme';

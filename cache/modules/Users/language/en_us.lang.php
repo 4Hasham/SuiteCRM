@@ -1,5 +1,5 @@
 <?php
-// created: 2021-07-23 17:39:55
+// created: 2021-07-27 16:09:29
 $mod_strings = array (
   'ERR_NO_2FACTOR_EMAIL_TMPL' => 'Two-factor email template is not set, please change settings on password management page.',
   'ERR_NO_2FACTOR_EMAIL_TMPL_CODE' => 'Two-factor email template should contain a $code at least.',
@@ -636,4 +636,5 @@ If you are not setting up Inbound Email, please clear all fields in that section
   'LBL_QUICKCREATE_PANEL3' => 'User Stuff',
   'LBL_DETAILVIEW_PANEL1' => 'User Stuff',
   'LBL_DETAILVIEW_PANEL2' => 'New Panel 2',
+  'LBL_SUBTHEME_OPTIONS_MYTHEME' => 'MyTheme',
 );

@@ -44,6 +44,7 @@
       'enable_range_search' => true,
       'options' => 'date_range_search_dom',
       'inline_edit' => false,
+      'popupHelp' => 'LBL_DATE_ENTERED',
     ),
     'date_modified' => 
     array (
