@@ -1,5 +1,5 @@
 <?php
-// created: 2021-07-27 16:37:24
+// created: 2021-07-29 11:19:36
 $dashletsFiles = array (
   'AM_ProjectTemplatesDashlet' => 
   array (

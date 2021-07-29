@@ -1,7 +1,7 @@
-<?php /* Smarty version 2.6.31, created on 2021-07-27 16:09:57
+<?php /* Smarty version 2.6.31, created on 2021-07-28 17:49:56
          compiled from cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
-smarty_core_load_plugins(array('plugins' => array(array('modifier', 'escape', 'cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl', 47, false),array('modifier', 'strip_semicolon', 'cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl', 102, false),array('function', 'sugar_include', 'cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl', 63, false),array('function', 'sugar_translate', 'cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl', 84, false),array('function', 'counter', 'cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl', 109, false),array('block', 'minify', 'cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl', 100, false),)), $this); ?>
+smarty_core_load_plugins(array('plugins' => array(array('modifier', 'escape', 'cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl', 47, false),array('modifier', 'strip_semicolon', 'cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl', 102, false),array('function', 'sugar_include', 'cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl', 63, false),array('function', 'sugar_translate', 'cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl', 84, false),array('function', 'counter', 'cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl', 109, false),array('function', 'sugar_run_helper', 'cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl', 223, false),array('block', 'minify', 'cache/themes/SuiteP/modules/HD1_HelpDesk/EditView.tpl', 100, false),)), $this); ?>
 
 
 <script>
@@ -298,6 +298,163 @@ title='' tabindex="0"
 <!-- [/hide] -->
 </div>
 <div class="clear"></div>
+
+
+
+<div class="col-xs-12 col-sm-12 edit-view-row-item">
+
+
+<div class="col-xs-12 col-sm-2 label" data-label="LBL_WHOLESOME_MSG">
+
+<?php $this->_tag_stack[] = array('minify', array()); $_block_repeat=true;smarty_block_minify($this->_tag_stack[count($this->_tag_stack)-1][1], null, $this, $_block_repeat);while ($_block_repeat) { ob_start(); ?>
+<?php ob_start(); ?><?php echo smarty_function_sugar_translate(array('label' => 'LBL_WHOLESOME_MSG','module' => 'HD1_HelpDesk'), $this);?>
+<?php $this->_smarty_vars['capture']['label'] = ob_get_contents();  $this->assign('label', ob_get_contents());ob_end_clean(); ?>
+<?php echo ((is_array($_tmp=$this->_tpl_vars['label'])) ? $this->_run_mod_handler('strip_semicolon', true, $_tmp) : smarty_modifier_strip_semicolon($_tmp)); ?>
+:
+
+<?php $_block_content = ob_get_contents(); ob_end_clean(); $_block_repeat=false;echo smarty_block_minify($this->_tag_stack[count($this->_tag_stack)-1][1], $_block_content, $this, $_block_repeat); }  array_pop($this->_tag_stack); ?>
+</div>
+
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="wholesome_message_field_c" colspan='3' >
+<?php echo smarty_function_counter(array('name' => 'panelFieldCount','print' => false), $this);?>
+
+<?php echo smarty_function_sugar_run_helper(array('include' => "",'func' => 'print_wholesome_msg','bean' => $this->_tpl_vars['bean'],'field' => 'wholesome_message_field_c','value' => $this->_tpl_vars['fields']['wholesome_message_field_c']['value'],'displayType' => 'EditView'), $this);?>
+
+</div>
+
+<!-- [/hide] -->
+</div>
+<div class="clear"></div>
+
+
+
+<div class="col-xs-12 col-sm-12 edit-view-row-item">
+
+
+<div class="col-xs-12 col-sm-2 label" data-label="LBL_MORE_CHECKBOX">
+
+<?php $this->_tag_stack[] = array('minify', array()); $_block_repeat=true;smarty_block_minify($this->_tag_stack[count($this->_tag_stack)-1][1], null, $this, $_block_repeat);while ($_block_repeat) { ob_start(); ?>
+<?php ob_start(); ?><?php echo smarty_function_sugar_translate(array('label' => 'LBL_MORE_CHECKBOX','module' => 'HD1_HelpDesk'), $this);?>
+<?php $this->_smarty_vars['capture']['label'] = ob_get_contents();  $this->assign('label', ob_get_contents());ob_end_clean(); ?>
+<?php echo ((is_array($_tmp=$this->_tpl_vars['label'])) ? $this->_run_mod_handler('strip_semicolon', true, $_tmp) : smarty_modifier_strip_semicolon($_tmp)); ?>
+:
+
+<?php $_block_content = ob_get_contents(); ob_end_clean(); $_block_repeat=false;echo smarty_block_minify($this->_tag_stack[count($this->_tag_stack)-1][1], $_block_content, $this, $_block_repeat); }  array_pop($this->_tag_stack); ?>
+</div>
+
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="show_more_field_c" colspan='3' >
+<?php echo smarty_function_counter(array('name' => 'panelFieldCount','print' => false), $this);?>
+
+<input tabindex="0"  type="checkbox" value="Show another field" id="field_checkbox" />
+</div>
+
+<!-- [/hide] -->
+</div>
+<div class="clear"></div>
+
+
+
+<div class="col-xs-12 col-sm-12 edit-view-row-item">
+
+
+<div class="col-xs-12 col-sm-2 label" data-label="LBL_ANOTHER_FIELD">
+
+<?php $this->_tag_stack[] = array('minify', array()); $_block_repeat=true;smarty_block_minify($this->_tag_stack[count($this->_tag_stack)-1][1], null, $this, $_block_repeat);while ($_block_repeat) { ob_start(); ?>
+<?php ob_start(); ?><?php echo smarty_function_sugar_translate(array('label' => 'LBL_ANOTHER_FIELD','module' => 'HD1_HelpDesk'), $this);?>
+<?php $this->_smarty_vars['capture']['label'] = ob_get_contents();  $this->assign('label', ob_get_contents());ob_end_clean(); ?>
+<?php echo ((is_array($_tmp=$this->_tpl_vars['label'])) ? $this->_run_mod_handler('strip_semicolon', true, $_tmp) : smarty_modifier_strip_semicolon($_tmp)); ?>
+:
+
+<?php $_block_content = ob_get_contents(); ob_end_clean(); $_block_repeat=false;echo smarty_block_minify($this->_tag_stack[count($this->_tag_stack)-1][1], $_block_content, $this, $_block_repeat); }  array_pop($this->_tag_stack); ?>
+</div>
+
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="another_field_c" colspan='3' >
+<?php echo smarty_function_counter(array('name' => 'panelFieldCount','print' => false), $this);?>
+
+<input tabindex="0"  type="radio" value="1" name="af" id="another_field" />
+</div>
+
+<!-- [/hide] -->
+</div>
+<div class="clear"></div>
+
+
+
+<div class="col-xs-12 col-sm-12 edit-view-row-item">
+
+
+<div class="col-xs-12 col-sm-2 label" data-label="LBL_ANOTHER_FIELD_">
+
+<?php $this->_tag_stack[] = array('minify', array()); $_block_repeat=true;smarty_block_minify($this->_tag_stack[count($this->_tag_stack)-1][1], null, $this, $_block_repeat);while ($_block_repeat) { ob_start(); ?>
+<?php ob_start(); ?><?php echo smarty_function_sugar_translate(array('label' => 'LBL_ANOTHER_FIELD_','module' => 'HD1_HelpDesk'), $this);?>
+<?php $this->_smarty_vars['capture']['label'] = ob_get_contents();  $this->assign('label', ob_get_contents());ob_end_clean(); ?>
+<?php echo ((is_array($_tmp=$this->_tpl_vars['label'])) ? $this->_run_mod_handler('strip_semicolon', true, $_tmp) : smarty_modifier_strip_semicolon($_tmp)); ?>
+:
+
+<?php $_block_content = ob_get_contents(); ob_end_clean(); $_block_repeat=false;echo smarty_block_minify($this->_tag_stack[count($this->_tag_stack)-1][1], $_block_content, $this, $_block_repeat); }  array_pop($this->_tag_stack); ?>
+</div>
+
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="another_field_c_" colspan='3' >
+<?php echo smarty_function_counter(array('name' => 'panelFieldCount','print' => false), $this);?>
+
+<input tabindex="0"  type="radio" value="2" name="af" id="another_field_" />
+</div>
+
+<!-- [/hide] -->
+</div>
+<div class="clear"></div>
+
+
+
+<div class="col-xs-12 col-sm-12 edit-view-row-item">
+
+
+<div class="col-xs-12 col-sm-2 label" data-label="LBL_ANOTHER_FIELD_1">
+
+<?php $this->_tag_stack[] = array('minify', array()); $_block_repeat=true;smarty_block_minify($this->_tag_stack[count($this->_tag_stack)-1][1], null, $this, $_block_repeat);while ($_block_repeat) { ob_start(); ?>
+<?php ob_start(); ?><?php echo smarty_function_sugar_translate(array('label' => 'LBL_ANOTHER_FIELD_1','module' => 'HD1_HelpDesk'), $this);?>
+<?php $this->_smarty_vars['capture']['label'] = ob_get_contents();  $this->assign('label', ob_get_contents());ob_end_clean(); ?>
+<?php echo ((is_array($_tmp=$this->_tpl_vars['label'])) ? $this->_run_mod_handler('strip_semicolon', true, $_tmp) : smarty_modifier_strip_semicolon($_tmp)); ?>
+:
+
+<?php $_block_content = ob_get_contents(); ob_end_clean(); $_block_repeat=false;echo smarty_block_minify($this->_tag_stack[count($this->_tag_stack)-1][1], $_block_content, $this, $_block_repeat); }  array_pop($this->_tag_stack); ?>
+</div>
+
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="another_field_child_1" colspan='3' >
+<?php echo smarty_function_counter(array('name' => 'panelFieldCount','print' => false), $this);?>
+
+<input tabindex="0"  type="text" id="another_field_c1" />
+</div>
+
+<!-- [/hide] -->
+</div>
+<div class="clear"></div>
+
+
+
+<div class="col-xs-12 col-sm-12 edit-view-row-item">
+
+
+<div class="col-xs-12 col-sm-2 label" data-label="LBL_ANOTHER_FIELD_2">
+
+<?php $this->_tag_stack[] = array('minify', array()); $_block_repeat=true;smarty_block_minify($this->_tag_stack[count($this->_tag_stack)-1][1], null, $this, $_block_repeat);while ($_block_repeat) { ob_start(); ?>
+<?php ob_start(); ?><?php echo smarty_function_sugar_translate(array('label' => 'LBL_ANOTHER_FIELD_2','module' => 'HD1_HelpDesk'), $this);?>
+<?php $this->_smarty_vars['capture']['label'] = ob_get_contents();  $this->assign('label', ob_get_contents());ob_end_clean(); ?>
+<?php echo ((is_array($_tmp=$this->_tpl_vars['label'])) ? $this->_run_mod_handler('strip_semicolon', true, $_tmp) : smarty_modifier_strip_semicolon($_tmp)); ?>
+:
+
+<?php $_block_content = ob_get_contents(); ob_end_clean(); $_block_repeat=false;echo smarty_block_minify($this->_tag_stack[count($this->_tag_stack)-1][1], $_block_content, $this, $_block_repeat); }  array_pop($this->_tag_stack); ?>
+</div>
+
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="another_field_child_2" colspan='3' >
+<?php echo smarty_function_counter(array('name' => 'panelFieldCount','print' => false), $this);?>
+
+<input tabindex="0"  type="text" id="another_field_c2" />
+</div>
+
+<!-- [/hide] -->
+</div>
+<div class="clear"></div>
 </div>                    </div>
 </div>
 </div>
@@ -463,6 +620,24 @@ addToValidate(\'EditView\', \'assigned_user_id\', \'relate\', false,\''; ?>
 <?php echo '\' );
 addToValidate(\'EditView\', \'assigned_user_name\', \'relate\', false,\''; ?>
 <?php echo smarty_function_sugar_translate(array('label' => 'LBL_ASSIGNED_TO_NAME','module' => 'HD1_HelpDesk','for_js' => true), $this);?>
+<?php echo '\' );
+addToValidate(\'EditView\', \'wholesome_message_field_c\', \'varchar\', false,\''; ?>
+<?php echo smarty_function_sugar_translate(array('label' => 'LBL_WHOLESOME_MSG','module' => 'HD1_HelpDesk','for_js' => true), $this);?>
+<?php echo '\' );
+addToValidate(\'EditView\', \'another_field_c_\', \'varchar\', false,\''; ?>
+<?php echo smarty_function_sugar_translate(array('label' => 'LBL_ANOTHER_FIELD_','module' => 'HD1_HelpDesk','for_js' => true), $this);?>
+<?php echo '\' );
+addToValidate(\'EditView\', \'another_field_child_1\', \'varchar\', false,\''; ?>
+<?php echo smarty_function_sugar_translate(array('label' => 'LBL_ANOTHER_FIELD_1','module' => 'HD1_HelpDesk','for_js' => true), $this);?>
+<?php echo '\' );
+addToValidate(\'EditView\', \'another_field_child_2\', \'varchar\', false,\''; ?>
+<?php echo smarty_function_sugar_translate(array('label' => 'LBL_ANOTHER_FIELD_2','module' => 'HD1_HelpDesk','for_js' => true), $this);?>
+<?php echo '\' );
+addToValidate(\'EditView\', \'another_field_c\', \'varchar\', false,\''; ?>
+<?php echo smarty_function_sugar_translate(array('label' => 'LBL_ANOTHER_FIELD','module' => 'HD1_HelpDesk','for_js' => true), $this);?>
+<?php echo '\' );
+addToValidate(\'EditView\', \'show_more_field_c\', \'varchar\', false,\''; ?>
+<?php echo smarty_function_sugar_translate(array('label' => 'LBL_MORE_CHECKBOX','module' => 'HD1_HelpDesk','for_js' => true), $this);?>
 <?php echo '\' );
 addToValidateBinaryDependency(\'EditView\', \'assigned_user_name\', \'alpha\', false,\''; ?>
 <?php echo smarty_function_sugar_translate(array('label' => 'ERR_SQS_NO_MATCH_FIELD','module' => 'HD1_HelpDesk','for_js' => true), $this);?>

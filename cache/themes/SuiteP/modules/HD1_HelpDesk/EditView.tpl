@@ -203,6 +203,144 @@ title='' tabindex="0"
 <!-- [/hide] -->
 </div>
 <div class="clear"></div>
+
+
+
+<div class="col-xs-12 col-sm-12 edit-view-row-item">
+
+
+<div class="col-xs-12 col-sm-2 label" data-label="LBL_WHOLESOME_MSG">
+
+{minify}
+{capture name="label" assign="label"}{sugar_translate label='LBL_WHOLESOME_MSG' module='HD1_HelpDesk'}{/capture}
+{$label|strip_semicolon}:
+
+{/minify}
+</div>
+
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="wholesome_message_field_c" colspan='3' >
+{counter name="panelFieldCount" print=false}
+{sugar_run_helper include="" func="print_wholesome_msg" bean=$bean field="wholesome_message_field_c" value=$fields.wholesome_message_field_c.value displayType="EditView"}
+</div>
+
+<!-- [/hide] -->
+</div>
+<div class="clear"></div>
+
+
+
+<div class="col-xs-12 col-sm-12 edit-view-row-item">
+
+
+<div class="col-xs-12 col-sm-2 label" data-label="LBL_MORE_CHECKBOX">
+
+{minify}
+{capture name="label" assign="label"}{sugar_translate label='LBL_MORE_CHECKBOX' module='HD1_HelpDesk'}{/capture}
+{$label|strip_semicolon}:
+
+{/minify}
+</div>
+
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="show_more_field_c" colspan='3' >
+{counter name="panelFieldCount"  print=false}
+<input tabindex="0"  type="checkbox" value="Show another field" id="field_checkbox" />
+</div>
+
+<!-- [/hide] -->
+</div>
+<div class="clear"></div>
+
+
+
+<div class="col-xs-12 col-sm-12 edit-view-row-item">
+
+
+<div class="col-xs-12 col-sm-2 label" data-label="LBL_ANOTHER_FIELD">
+
+{minify}
+{capture name="label" assign="label"}{sugar_translate label='LBL_ANOTHER_FIELD' module='HD1_HelpDesk'}{/capture}
+{$label|strip_semicolon}:
+
+{/minify}
+</div>
+
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="another_field_c" colspan='3' >
+{counter name="panelFieldCount"  print=false}
+<input tabindex="0"  type="radio" value="1" name="af" id="another_field" />
+</div>
+
+<!-- [/hide] -->
+</div>
+<div class="clear"></div>
+
+
+
+<div class="col-xs-12 col-sm-12 edit-view-row-item">
+
+
+<div class="col-xs-12 col-sm-2 label" data-label="LBL_ANOTHER_FIELD_">
+
+{minify}
+{capture name="label" assign="label"}{sugar_translate label='LBL_ANOTHER_FIELD_' module='HD1_HelpDesk'}{/capture}
+{$label|strip_semicolon}:
+
+{/minify}
+</div>
+
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="another_field_c_" colspan='3' >
+{counter name="panelFieldCount"  print=false}
+<input tabindex="0"  type="radio" value="2" name="af" id="another_field_" />
+</div>
+
+<!-- [/hide] -->
+</div>
+<div class="clear"></div>
+
+
+
+<div class="col-xs-12 col-sm-12 edit-view-row-item">
+
+
+<div class="col-xs-12 col-sm-2 label" data-label="LBL_ANOTHER_FIELD_1">
+
+{minify}
+{capture name="label" assign="label"}{sugar_translate label='LBL_ANOTHER_FIELD_1' module='HD1_HelpDesk'}{/capture}
+{$label|strip_semicolon}:
+
+{/minify}
+</div>
+
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="another_field_child_1" colspan='3' >
+{counter name="panelFieldCount"  print=false}
+<input tabindex="0"  type="text" id="another_field_c1" />
+</div>
+
+<!-- [/hide] -->
+</div>
+<div class="clear"></div>
+
+
+
+<div class="col-xs-12 col-sm-12 edit-view-row-item">
+
+
+<div class="col-xs-12 col-sm-2 label" data-label="LBL_ANOTHER_FIELD_2">
+
+{minify}
+{capture name="label" assign="label"}{sugar_translate label='LBL_ANOTHER_FIELD_2' module='HD1_HelpDesk'}{/capture}
+{$label|strip_semicolon}:
+
+{/minify}
+</div>
+
+<div class="col-xs-12 col-sm-8 edit-view-field " type="varchar" field="another_field_child_2" colspan='3' >
+{counter name="panelFieldCount"  print=false}
+<input tabindex="0"  type="text" id="another_field_c2" />
+</div>
+
+<!-- [/hide] -->
+</div>
+<div class="clear"></div>
 </div>                    </div>
 </div>
 </div>
@@ -311,5 +449,11 @@ addToValidate('EditView', 'description', 'text', false,'{/literal}{sugar_transla
 addToValidate('EditView', 'deleted', 'bool', false,'{/literal}{sugar_translate label='LBL_DELETED' module='HD1_HelpDesk' for_js=true}{literal}' );
 addToValidate('EditView', 'assigned_user_id', 'relate', false,'{/literal}{sugar_translate label='LBL_ASSIGNED_TO_ID' module='HD1_HelpDesk' for_js=true}{literal}' );
 addToValidate('EditView', 'assigned_user_name', 'relate', false,'{/literal}{sugar_translate label='LBL_ASSIGNED_TO_NAME' module='HD1_HelpDesk' for_js=true}{literal}' );
+addToValidate('EditView', 'wholesome_message_field_c', 'varchar', false,'{/literal}{sugar_translate label='LBL_WHOLESOME_MSG' module='HD1_HelpDesk' for_js=true}{literal}' );
+addToValidate('EditView', 'another_field_c_', 'varchar', false,'{/literal}{sugar_translate label='LBL_ANOTHER_FIELD_' module='HD1_HelpDesk' for_js=true}{literal}' );
+addToValidate('EditView', 'another_field_child_1', 'varchar', false,'{/literal}{sugar_translate label='LBL_ANOTHER_FIELD_1' module='HD1_HelpDesk' for_js=true}{literal}' );
+addToValidate('EditView', 'another_field_child_2', 'varchar', false,'{/literal}{sugar_translate label='LBL_ANOTHER_FIELD_2' module='HD1_HelpDesk' for_js=true}{literal}' );
+addToValidate('EditView', 'another_field_c', 'varchar', false,'{/literal}{sugar_translate label='LBL_ANOTHER_FIELD' module='HD1_HelpDesk' for_js=true}{literal}' );
+addToValidate('EditView', 'show_more_field_c', 'varchar', false,'{/literal}{sugar_translate label='LBL_MORE_CHECKBOX' module='HD1_HelpDesk' for_js=true}{literal}' );
 addToValidateBinaryDependency('EditView', 'assigned_user_name', 'alpha', false,'{/literal}{sugar_translate label='ERR_SQS_NO_MATCH_FIELD' module='HD1_HelpDesk' for_js=true}{literal}: {/literal}{sugar_translate label='LBL_ASSIGNED_TO' module='HD1_HelpDesk' for_js=true}{literal}', 'assigned_user_id' );
 </script><script language="javascript">if(typeof sqs_objects == 'undefined'){var sqs_objects = new Array;}sqs_objects['EditView_assigned_user_name']={"form":"EditView","method":"get_user_array","field_list":["user_name","id"],"populate_list":["assigned_user_name","assigned_user_id"],"required_list":["assigned_user_id"],"conditions":[{"name":"user_name","op":"like_custom","end":"%","value":""}],"limit":"30","no_match_text":"No Match"};</script>{/literal}

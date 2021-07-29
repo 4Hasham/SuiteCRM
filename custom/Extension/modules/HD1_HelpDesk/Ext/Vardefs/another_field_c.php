@@ -1,0 +1,15 @@
+<?php
+    $dictionary['HD1_HelpDesk']['fields']['another_field_c'] = array(
+        'name' => 'another_field_c',
+        'vname' => 'LBL_ANOTHER_FIELD',
+        'function' => array(
+            'name' => '',
+            'params' => array()
+        ),
+        'type' => 'varchar',
+        'source' => 'non-db',
+        'len' => '100',
+        'inline_edit' => '',
+        'labelValue' => 'LBL_ANOTHER_FIELD',
+    );
+?>

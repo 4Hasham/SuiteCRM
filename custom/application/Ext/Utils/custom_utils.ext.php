@@ -3,6 +3,10 @@
 
 
 
+function print_wholesome_msg($bean) {
+    return "<span>Have a nice day!</span>";
+}
+
 function printHi() {
     return "Hi";
 }

@@ -17,4 +17,12 @@
         'TestHook',
         'TestHook_Method_'
     );
+    $hook_array['before_delete'] = Array();
+    $hook_array['before_delete'][] = Array(
+        1,
+        'Before Delete Logic Hook',
+        'custom/modules/Beta_Beta/executables/TestHook.php',
+        'TestHook',
+        'TestHook_Before_Delete'
+    );
 ?>

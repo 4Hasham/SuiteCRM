@@ -1,5 +1,5 @@
 <?php
-// created: 2021-07-27 16:09:19
+// created: 2021-07-28 17:48:30
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -39,4 +39,10 @@ $mod_strings = array (
   'LBL_NEW_FORM_TITLE' => 'New HelpDesk1',
   'LBL_DETAILVIEW_PANEL1' => 'Stuff',
   'LBL_EDITVIEW_PANEL1' => 'Stuff',
+  'LBL_WHOLESOME_MSG' => 'Wholesome Message',
+  'LBL_MORE_CHECKBOX' => 'Show another field',
+  'LBL_ANOTHER_FIELD' => 'Show Field 1',
+  'LBL_ANOTHER_FIELD_' => 'Show Field 2',
+  'LBL_ANOTHER_FIELD_1' => 'I am first child',
+  'LBL_ANOTHER_FIELD_2' => 'I am second child',
 );
